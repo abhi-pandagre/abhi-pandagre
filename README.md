@@ -10,7 +10,7 @@
 - 🎓 I'm studying Computer Science 
 - 👨‍💻️ I enjoy working on Machine Learning, Full-Stack Development, and everything in between
 - 📑 Check out my portfolio [here](https://github.com/abhi-pandagre)
-- 💬 You can reach me through [my email](abhi.pandagre@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/)
+- 💬 You can reach me through [my email](mailto:abhi.pandagre@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/)
 
 -------
 
